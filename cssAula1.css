@@ -1,0 +1,29 @@
+.title h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav#horizontal ul li {
+    display: inline;  
+}
+
+section img{
+    border: 2px solid red;
+    vertical-align: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    padding: 2px 5px;
+}
+
+nav#horizontal ul li a {
+    padding: 2px 5px;
+    display: inline-block;
+    background-color: #6D6D6D;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 3px solid #FFCC00;
+}
+
+body{
+    background-color: whitesmoke;
+}
